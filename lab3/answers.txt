@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: The sort1 is faster than other two sorts when testing sorted50000.
+
+sort2 uses: merge sort
+
+How do you know?: The sort2 is faster than other two sorts when testing random50000 and reversed50000.
+
+sort3 uses: selection sort
+
+How do you know?: The sort 3 took time most when testing sorted 500000.
